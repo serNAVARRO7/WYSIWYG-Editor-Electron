@@ -17,6 +17,6 @@ Check my-editor Angular project Readme to know more.
 ```npm run build:electron```
 ```npm run package```
 
-Last command will package the application for the OS that you are currently running on. Navigate to the dist folder and you will find a folder called my-editor-<OperativeSystem>, my-editor.exe file is the executable file of our desktop application.
+Last command will package the application for the OS that you are currently running on. Navigate to the dist folder and you will find a folder called my-editor-"OperativeSystem", my-editor.exe file is the executable file of our desktop application.
 
 ***

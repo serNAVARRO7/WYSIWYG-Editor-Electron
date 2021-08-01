@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WYSIWYG%20Editor&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 ## 📌 Abstract
-A WYSIWYG editor for the desktop using Angular and Electron. Creating an Angular application and adding ngx-wig, a popular Angular WYSIWYG library. Electron is a JavaScript framework that is used to build native desktop applications with web technologies. If we combine it with the Angular framework, we can create fast and highly performant web applications. 
+A WYSIWYG editor for the desktop using [Angular](https://angular.io) and [Electron](https://www.electronjs.org/). Creating an Angular application and adding ngx-wig, a popular Angular WYSIWYG library. Electron is a JavaScript framework that is used to build native desktop applications with web technologies. If we combine it with the Angular framework, we can create fast and highly performant web applications. 
 
 ***
 ## 🏃 Run the application
